@@ -1,0 +1,19 @@
+3 1 2
+Ho Xuan Ninh
+30
+100
+Nguyen Van An
+50
+300
+Vo Thi Thanh
+10
+500
+Huynh Van Da
+15
+150
+Ho Van Tien
+60
+200
+Nguyen Dat Thinh
+20
+350

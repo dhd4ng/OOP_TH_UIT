@@ -1,0 +1,14 @@
+3 1 2
+Ten: Ho Xuan Ninh
+Tien phai tra: 3300
+Ten: Nguyen Van An
+Tien phai tra: 16500
+Ten: Vo Thi Thanh
+Tien phai tra: 5500
+Ten: Huynh Van Da
+Tien phai tra: 2475
+Ten: Ho Van Tien
+Tien phai tra: 6600
+Ten: Nguyen Dat Thinh
+Tien phai tra: 3850
+Tong so tien cong ty thu duoc: 38225
